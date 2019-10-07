@@ -1,0 +1,79 @@
+body{
+    background-color: rgba(255, 255, 255, 0.815);
+}
+.head{
+    position: relative;
+    height: 30vh;
+    width: 100vw;
+    padding-top: 10px;
+    text-align: left;
+    /* background-image: url("/img/himg.svg");
+    background-repeat: no-repeat;   */
+    background-color: RGB(107, 193, 226);
+    /* justify-content: center;
+    align-items: center;
+    place-items: center; */
+    /* display: flex; */
+    font-size: 1.5em;
+}
+h1{
+    font-size: 2em;
+}
+.cimg{
+    position: absolute;
+    width: 100vw;
+    margin-top: -5px;
+    margin-left: -5px;
+}
+.pimg{
+    position: relative;
+    height: 200px;
+    padding-top: 10px;
+}
+.name{
+    color: rgb(231, 231, 231);
+    font-size: 60px;
+    padding-left: 15px;
+}
+ul {
+    list-style-type: none;
+}
+.about{ 
+    margin-top: 28vw;
+}
+#about{
+    background-color: rgba(202, 207, 211, 0.336);
+}
+#section02{
+    text-align: center;
+}
+p{
+    font-family: Courier;
+}
+.btn-light{
+    background-color: transparent;
+}
+.btn-light:hover{
+    background-color: rgba(0, 162, 255, 0.301);
+}
+.card-header{
+    background-color: rgba(63, 189, 189, 0.596);
+}
+.card{
+    margin-top: 25px;
+    border-radius: 20px;
+}
+.animation{
+    position: relative;
+    overflow: hidden;
+}
+.plane{
+    position: relative;
+    height: 90px;
+    top: 30%;
+}
+footer{
+    height: 20px;
+    background-color: rgba(63, 189, 189, 0.596);
+    margin-top: 20px;
+}
