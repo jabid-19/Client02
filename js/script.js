@@ -10,6 +10,7 @@ const flightPath={
         {x: 950, y: 100},
         {x: 550, y: -50},
         {x: 800, y: 0},
+        // {x: window.innerWidth, y: 250}
     
     ]
 };
