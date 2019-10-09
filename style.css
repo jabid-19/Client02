@@ -31,6 +31,10 @@ body{
     color: rgb(124, 120, 120);
     background-color: RGB(107, 193, 226);
 }
+.id{
+    font-family: cursive;
+    font-size: 2.5vw;
+}
 .cimg{
     position: absolute;
     width: 100vw;
