@@ -28,7 +28,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "acorn": "^3.0.4"
+    "acorn": "^7.1.1"
   },
   "deprecated": false,
   "description": "Alternative, faster React.js JSX parser",
